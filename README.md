@@ -1,7 +1,7 @@
 ### Olá, sou o Filipe, seja bem vindo(a)!
 ##
 - 🌱 Estudando node e react
-- 📫 Contate-me no e-mail: fpteixeira@outlook.com.br
+- 📫 E-mail: fpteixeira@outlook.com.br
 - 😄 Pronouns: ele/dele
 
 <div align="center">
